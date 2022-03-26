@@ -1,4 +1,3 @@
 # Omegle-Location-Code
-
-add youre token code to =yourtoken' (romove the yourtoken and paste your token code)
-https://ipinfo.io/account/token
+add your token code to =yourtoken' (in your inspect code) remove te letters and add your code
+here the link https://ipinfo.io/account/token
