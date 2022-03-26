@@ -1,0 +1,2 @@
+# Omegle-Location-Code
+(inspect)
